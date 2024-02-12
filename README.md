@@ -1,5 +1,7 @@
 # Financial Forensics: Exposing Malicious Transactions using AI
 
+Blog Link - (https://rajkulkarni.hashnode.dev/ai-metrics-importance)[Link]
+
 - The primary objective of this project is to detect fraud in a financial system as efficient as possible using AI. 
 
 - Fraud is an important problem that impacts the whole economy. Currently, there is a lack of public research into the detection of fraud. One important reason is the lack of transaction data which is often sensitive.
