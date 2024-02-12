@@ -48,6 +48,8 @@
         - vanilla
         - hyperparameter tuned
     - DeepNet
+        - vanilla
+        - hyperparameter tuned
 
 ## Observations
 
