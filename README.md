@@ -22,6 +22,18 @@
 
     - The attributes in the original synthetic data consisted of - type, amount, nameOrig, oldbalanceOrg, newbalanceOrig, newbalanceDest, isFraud, isFlaggedFraud, and many more. 
 
+## Code Related
+
+1. For running in the local machine - 
+    - git clone <repo_name>
+    - conda activate venv
+
+2. Libraries (might) have to be installed - 
+    - tensorflow
+    - tensorflow-diretml-plugin (gpu-based)
+    - fast_ml
+    - imblearn
+
 ## Flow of the Project 
 
 1. **Data Analysis, Preprocessing, Engineering:**
