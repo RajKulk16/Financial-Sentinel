@@ -58,6 +58,7 @@
     - Vanilla XgBoost = 1144
     - Tuned XgBoost = 283
     - DeepNet = 922
+    - DeepNet tuned (HyperBand) = 768
 
 ## Results
 
