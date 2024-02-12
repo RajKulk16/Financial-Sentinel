@@ -1,6 +1,6 @@
 # Financial Forensics: Exposing Malicious Transactions using AI
 
-Blog Link - (https://rajkulkarni.hashnode.dev/ai-metrics-importance)[Link]
+Blog Link - [Link](https://rajkulkarni.hashnode.dev/ai-metrics-importance)
 
 - The primary objective of this project is to detect fraud in a financial system as efficient as possible using AI. 
 
